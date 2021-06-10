@@ -1,0 +1,19 @@
+{
+  "name": "javascript_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "finding_dups.js",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
